@@ -1,9 +1,5 @@
 # 万事屋
 
-- 求人不如求己
-- 非IT领域的业余项目优先 (作业/面试题请到[隔壁](https://github.com/program-in-chinese/study))
-- 所有开发成果将开源, 相关讨论公开
-
 ## 悬赏
 
 | 项目 | 任务 | 金额（元） |
@@ -13,8 +9,16 @@
 | [木兰重现](https://gitee.com/MulanRevive/mulan-rework) | [【探索原始木兰功能】木兰源码转换为 blockly xml](https://gitee.com/MulanRevive/mulan-rework/issues/IANHYP) | 218 |
 | [蓝牙互连](https://gitee.com/zhishi/share-content-using-bluetooth) | [【调研】两个系统互相根据输入应答](https://gitee.com/zhishi/share-content-using-bluetooth/issues/IAHKQ2) | 266 |
 
-## 事件
+Gitee悬赏流程 [见此文档](https://gitee.com/help/articles/4333)。这些 [已完成的悬赏任务](https://gitee.com/MulanRevive/mulan-rework/issues?q=is%3Aclosed+label%3A%E6%82%AC%E8%B5%8F) 为例作参考。 
+
+## 历史
 
 - 二〇二四年开始 [蓝牙互连](https://gitee.com/zhishi/share-content-using-bluetooth)
 - 二〇二〇年开始 [木兰重现](https://gitee.com/MulanRevive/mulan-rework)，记录悬赏金额的收支账目 [在此](https://gitee.com/MulanRevive/bounty/tree/master/%E6%94%B6%E6%94%AF%E8%B4%A6%E6%9C%AC)
 - 二零一八年九月 [五笔编码编校软件 Python 版](https://github.com/program-in-chinese/wubi_code_editor)
+
+## 基本原则
+
+- 求人不如求己
+- 非IT领域的业余项目优先 (作业/面试题请到[隔壁](https://github.com/program-in-chinese/study))
+- 所有开发成果将开源, 相关讨论公开
